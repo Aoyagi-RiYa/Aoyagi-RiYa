@@ -9,6 +9,8 @@
     </table>
 </div>
 
+
+
 <h2 align="center">🛠️ Skills & Learning</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-Skill-3776AB?logo=python&logoColor=white" alt="Python">
@@ -16,3 +18,23 @@
     <img src="https://img.shields.io/badge/Frontend-learning-blue?logo=html5&logoColor=white" alt="Frontend">
     <img src="https://img.shields.io/badge/C++-learning-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
 </div>
+
+
+
+<h2 align="center">🌠 Wishlist</h2>
+<table align="center">
+  <tr>
+    <td>
+      <ul type="none" align="center">
+        <li>Get into a good university</li>
+        <li>Learn to draw</li>
+        <li>Become a game developer</li>
+        <li>Visit a comic convention (Comicup) in Shanghai</li>
+        <li>Travel to Tokyo · China–Japan friendship</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
