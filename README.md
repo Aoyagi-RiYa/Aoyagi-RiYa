@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">𝓐𝓸𝔂𝓪𝓰𝓲 𝓡𝓲𝔂𝓪</h1>
 
-<!--
-**Aoyagi-RiYa/Aoyagi-RiYa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td width="50%" align="center">An ordinary high school student in China. Like anime, PC game and others. Actually, I don't have much time to learn programming, because school life takes up most of my time. Nobody wants to be a student in China or South Korea.</td>
+            <td width="50%" align="center"><img src="Miyabi.gif" alt="星见雅表情包"></td>
+        </tr>
+    </table>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+    <p>🌱 Currently learning:</p>
+    <img src="https://img.shields.io/badge/Frontend-learning-blue" alt="Frontend">
+    <img src="https://img.shields.io/badge/C++-learning-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
