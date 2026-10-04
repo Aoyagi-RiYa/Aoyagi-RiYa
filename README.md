@@ -29,12 +29,11 @@
         <li>Get into a good university</li>
         <li>Learn to draw</li>
         <li>Become a game developer</li>
-        <li>Visit a comic convention (Comicup) in Shanghai</li>
+        <li>Visit a comic convention in Shanghai</li>
         <li>Travel to Tokyo · China–Japan friendship</li>
       </ul>
     </td>
   </tr>
 </table>
-
 
 
