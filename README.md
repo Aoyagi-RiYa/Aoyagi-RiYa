@@ -10,14 +10,14 @@
 </div>
 
 
-
 <h2 align="center">🛠️ Skills & Learning</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-Skill-3776AB?logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/C-Skill-00599C?logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/Frontend-learning-blue?logo=html5&logoColor=white" alt="Frontend">
-    <img src="https://img.shields.io/badge/C++-learning-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Frontend-Learning-blue?logo=html5&logoColor=white" alt="Frontend">
+    <img src="https://img.shields.io/badge/C++-Learning-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
 </div>
+
 
 
 
